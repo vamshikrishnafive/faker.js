@@ -24,9 +24,8 @@
 curl http://faker.hook.io?property=name.findName&locale=de
 ```
 
-## Usage
-## my frist commite
-
+## Usag
+## this is my commit vamshi 
 ### Browser
 
     <script src = "faker.js" type = "text/javascript"></script>
