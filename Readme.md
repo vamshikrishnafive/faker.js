@@ -12,9 +12,9 @@
 ## Demo
 ## MY team Members
 ## 1. vamshi krishna
-## Ravi teja
-## john suresh
-## preetham
+## 2. Ravi teja
+## 3. john suresh
+## 4. preethem
 
 [https://rawgit.com/Marak/faker.js/master/examples/browser/index.html](https://rawgit.com/Marak/faker.js/master/examples/browser/index.html)
 
@@ -29,8 +29,8 @@
 curl http://faker.hook.io?property=name.findName&locale=de
 ```
 
-## Usage
-
+## Usag
+## this is my commit vamshi 
 ### Browser
 
     <script src = "faker.js" type = "text/javascript"></script>
