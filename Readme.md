@@ -10,6 +10,11 @@
 [![OpenCollective](https://opencollective.com/fakerjs/sponsors/badge.svg)](#sponsors)
 
 ## Demo
+## MY team Members
+## 1. vamshi krishna
+## Ravi teja
+## john suresh
+## preetham
 
 [https://rawgit.com/Marak/faker.js/master/examples/browser/index.html](https://rawgit.com/Marak/faker.js/master/examples/browser/index.html)
 
